@@ -1,0 +1,22 @@
+{
+  "name": "NodeJssuperheroes",
+  "version": "1.0.0",
+  "description": "My First Node/npm project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "superheroes",
+    "supervillians"
+  ],
+  "author": "Karl Karim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  }
+}
